@@ -1,6 +1,7 @@
 # oblig2Kino
 
 GitHub brukernavn: csselia
+
 GitHub repo URL : https://github.com/csselia/oblig2Kino
 
 Kort beskrivelse av applikasjon (5-10 setninger): 
